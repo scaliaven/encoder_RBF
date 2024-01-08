@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --mail-user=hh3043@nyu.edu
+#SBATCH --mail-user=netid@nyu.edu
 #SBATCH --mail-type=ALL
 #SBATCH --gres=gpu:1 
 #SBATCH --nodes=1
