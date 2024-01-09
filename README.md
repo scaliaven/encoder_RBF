@@ -2,7 +2,7 @@ More details on:https://huggingface.co/docs/transformers/training
 
 the sample dataset:[Yelp review](https://huggingface.co/datasets/yelp_review_full/tree/main/yelp_review_full)
 
-remember to replace the empty file inside folder __['yelp_review_full']__ with the testing and training datasets
+remember to replace the empty file inside folder _yelp_review_full_ with the testing and training datasets
 
 ## Environment
 > conda create -n RBF
