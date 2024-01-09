@@ -8,10 +8,17 @@ remember to replace the empty file inside folder **['yelp_review_full']** with t
 > conda create -n RBF
 > 
 > conda install python==3.9
+> 
 > pip install datasets
+> 
 > pip install transformers
+> 
 > pip install torch torchvision
+> 
 > pip install tqdm
+> 
 > pip install evaluate
+> 
 > pip install numpy
+> 
 > pip install -U scikit-learn
