@@ -6,6 +6,7 @@ remember to replace the empty file inside folder **['yelp_review_full']** with t
 
 ## Environment
 > conda create -n RBF
+> 
 > conda install python==3.9
 > pip install datasets
 > pip install transformers
