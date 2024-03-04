@@ -6,6 +6,8 @@ remember to replace the empty file inside folder _yelp_review_full_ with the tes
 
 ## Environment
 > conda create -n RBF
+>
+> conda activate RBF
 > 
 > conda install python==3.9
 > 
